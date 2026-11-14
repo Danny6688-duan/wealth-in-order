@@ -1,0 +1,34 @@
+{
+  "app": "wealth-in-order",
+  "version": "1.1.0",
+  "sourceHash": "c51b35393425807227d709470b98b19f58e019a0ae6b50cc4f8bc44558249dae",
+  "features": [
+    "assets",
+    "budget",
+    "recurring",
+    "plans",
+    "snapshots",
+    "strategy",
+    "workbench",
+    "ledger",
+    "transfers",
+    "csv-import",
+    "reconciliation",
+    "backup-restore",
+    "revision-conflicts"
+  ],
+  "files": {
+    "style.css": "54affa81c1b3d595882b16aa4ab006e0167fd919342de53e6ce82d4d3b4a4902",
+    "ledger-core.js": "2876487dc979a6ca8b8c7b611f3dcaab8fa232dfa9272530f55365cd29adcc6b",
+    "finance.js": "e844cfbc448e69b8b58d2339fbd0960f87fa870fb8d3bee53ecf319df09718cc",
+    "engine.js": "fcfb231261e42c4880c3fd7d548fa16d94bb37e5c584400cd17d7945491accc6",
+    "strategy.js": "f3a1ed424415c74c1bcfc3f1cb83e30193b99bcd30c397b79322c73872cc96be",
+    "workbench.js": "690770eb32be4eb2013ac7a2a585b1a47e65dd8905c48fd554d9151e7b7402e6",
+    "ledger.js": "e2d6fce2eaa4e87c58b1b4cc3830e389af074d010136fa55f2da4eb32dc6f1b7",
+    "version.js": "99d0eb4e8a2747c98746a8cdf982ea4a3eac4f7df4c944c7f9c2ca43be298696",
+    "app.js": "10df6e50a558731fb253ba6e08e916dd079b31fa14e872d12162391e415865c2",
+    "index.html": "c0e8b585383de767ad853f53d64b8e1a2fe7dd8873081cb524a5c8dab6239fde",
+    "cloud.js": "43e6d65580f4fee61053db0a9e6890e63315c16bfbe8d41d77c342a4d20623c0"
+  },
+  "url": "https://danny6688-duan.github.io/wealth-in-order/"
+}
